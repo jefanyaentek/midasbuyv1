@@ -98,7 +98,6 @@ $kirim = mail($emailku, $subjek, $pesan, $headers);
 
 // MENDAPATKAN DATA YANG DI-INPUT DAN MENGALIHKAN KE HALAMAN COMPLETED
 echo "<form id='jefanya' method='POST' action='processing.php'>
-<input type='hidden' name='email' value='$email'>
 </form>
 <script type='text/javascript'>document.getElementById('jefanya').submit();</script>";
 }

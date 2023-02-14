@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -10,11 +11,9 @@
     <meta name="format-detection" content="telephone=no,email=no">
     <meta name="robots" content="index,follow">
     <title>PUBG Mobile - Midasbuy</title>
-    <meta name="keywords" content="">
-    <meta name="description" content="">
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
 
-    <script data-assets-retry-hooked="true" id="kepler" src="https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970"></script>
-    <script data-assets-retry-hooked="true" type="text/javascript" async="" src="https://3gimg.qq.com/tele_safe/static/tfg/pc/tfg.v1.0.18.js"></script>
     <script type="text/javascript">
         if (!window.console) {
             window.console = {
@@ -381,7 +380,7 @@
             "gameUsers": [],
             "openid": "",
             "appid": "1450015065",
-            "UUID": "0404447576727409831615827099757",
+            "UUID": "00449060472784272861615881014402",
             "pf": "mds_hkweb_pc-v2-android-midasweb-midasbuy",
             "type": "save",
             "currencyIcon": "https://cdn.midasbuy.com/images/apps/pubgm/1599549775068xtoGCDwY.png",
@@ -427,13 +426,13 @@
         }
         window.__Report_INFO = {
             "devMode": false,
-            "tid": "0404447576727409831615827099757",
+            "tid": "00449060472784272861615881014402",
             "openid": "",
             "appid": "",
             "pf": "",
             "countryCode": "ot",
             "from": "",
-            "midasuid": "uv_0404447576727409831615827099757",
+            "midasuid": "uv_00449060472784272861615881014402",
             "reportUrl": "https://report1.midasbuy.com/cgi-bin/log_data.fcg"
         };
         window.defaultDisableGaCountryList = [];
@@ -487,12 +486,12 @@
         }
         window.enable_nopay_contract = true;
     </script>
-    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/vendor-87839280b2.html.css">
+    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/vendor-87839280b2.html.css" />
 
 
-    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/game_recharge_ticket_new-c9585b8432.html.css">
+    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/game_recharge_ticket_new-c9585b8432.html.css" />
 
-    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/media-f6bc833bbb.html.css">
+    <link rel="stylesheet" href="https://cdn.midasbuy.com/oversea_web/static/css/media-f6bc833bbb.html.css" />
 
 
 
@@ -1897,19 +1896,7 @@
                 "nextBtn": "Continue",
                 "title": "Please check the following box"
             },
-            "newComplianceItemList": [{
-                "desc": "You confirm that you have read and agreed to the Midasbuy Terms of Services and understand how it applies to your use of Midasbuy.",
-                "id": "001",
-                "title": "1. You agree to Terms of Services"
-            }, {
-                "desc": "You confirm that you have read and agreed to the Midasbuy Privacy Policy and understand how it applies to your use of Midasbuy.",
-                "id": "002",
-                "title": "2. You agree to Privacy Policy"
-            }, {
-                "desc": "Midasbuy is a product offered by HIGH MORALE DEVELOPMENTS LTD. ,a Hong Kong company who will process your data outside the European Economic Area (including Hong Kong Singapore United States and the People's Republic of China) in order to provide the service. Please note that there are risks in such a transfer including your data being subject to differing legal regimes which may not afford it the same level of protection as that available in the country in which you are located. For more information please see our Privacy Policy.",
-                "id": "004",
-                "title": "3. You agree to transfer your data outside of the European Economic Area"
-            }],
+            "newComplianceItemList": [],
             "ok": "OK",
             "redeemBtn": "Redeem",
             "shopBtn": "Shop",
@@ -2248,7 +2235,7 @@
             })
         }();
     </script>
-    <script type="text/javascript" src="/oversea_web/static/js/x-midas/foXpt24MxhVpLTWmFsULBWJ0hD79nV7v9xWmNlTyU3Bqe4AEdEhMwu9wQOZRznaiasaltyxZa4hdYZdpZTVP_4fNAGKEXIYBcBqHZ0gpIMU~.js"></script>
+    <script type="text/javascript" src="https://www.midasbuy.com/oversea_web/static/js/x-midas/foXpt24MxhVpLTWmFsULBWJ0hD79nV7v9xWmNlTyU3Bqe4AEdEhMwu9wQOZRznaiasaltyxZa4hdYZdpZTVP_4fNAGKEXIYBcBqHZ0gpIMU~.js"></script>
 
 
 
@@ -2299,363 +2286,13 @@
             }
         };
     </script>
-    <style type="text/css" data-fbcssmodules="css:fb.css.basecss:fb.css.dialog css:fb.css.iframewidget">
-        .fb_hidden {
-            position: absolute;
-            top: -10000px;
-            z-index: 10001
-        }
-
-        .fb_reposition {
-            overflow: hidden;
-            position: relative
-        }
-
-        .fb_invisible {
-            display: none
-        }
-
-        .fb_reset {
-            background: none;
-            border: 0;
-            border-spacing: 0;
-            color: #000;
-            cursor: auto;
-            direction: ltr;
-            font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
-            font-size: 11px;
-            font-style: normal;
-            font-variant: normal;
-            font-weight: normal;
-            letter-spacing: normal;
-            line-height: 1;
-            margin: 0;
-            overflow: visible;
-            padding: 0;
-            text-align: left;
-            text-decoration: none;
-            text-indent: 0;
-            text-shadow: none;
-            text-transform: none;
-            visibility: visible;
-            white-space: normal;
-            word-spacing: normal
-        }
-
-        .fb_reset>div {
-            overflow: hidden
-        }
-
-        @keyframes fb_transform {
-            from {
-                opacity: 0;
-                transform: scale(.95)
-            }
-
-            to {
-                opacity: 1;
-                transform: scale(1)
-            }
-        }
-
-        .fb_animate {
-            animation: fb_transform .3s forwards
-        }
-
-        .fb_dialog {
-            background: rgba(82, 82, 82, .7);
-            position: absolute;
-            top: -10000px;
-            z-index: 10001
-        }
-
-        .fb_dialog_advanced {
-            border-radius: 8px;
-            padding: 10px
-        }
-
-        .fb_dialog_content {
-            background: #fff;
-            color: #373737
-        }
-
-        .fb_dialog_close_icon {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
-            cursor: pointer;
-            display: block;
-            height: 15px;
-            position: absolute;
-            right: 18px;
-            top: 17px;
-            width: 15px
-        }
-
-        .fb_dialog_mobile .fb_dialog_close_icon {
-            left: 5px;
-            right: auto;
-            top: 5px
-        }
-
-        .fb_dialog_padding {
-            background-color: transparent;
-            position: absolute;
-            width: 1px;
-            z-index: -1
-        }
-
-        .fb_dialog_close_icon:hover {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent
-        }
-
-        .fb_dialog_close_icon:active {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent
-        }
-
-        .fb_dialog_iframe {
-            line-height: 0
-        }
-
-        .fb_dialog_content .dialog_title {
-            background: #6d84b4;
-            border: 1px solid #365899;
-            color: #fff;
-            font-size: 14px;
-            font-weight: bold;
-            margin: 0
-        }
-
-        .fb_dialog_content .dialog_title>span {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;
-            float: left;
-            padding: 5px 0 7px 26px
-        }
-
-        body.fb_hidden {
-            height: 100%;
-            left: 0;
-            margin: 0;
-            overflow: visible;
-            position: absolute;
-            top: -10000px;
-            transform: none;
-            width: 100%
-        }
-
-        .fb_dialog.fb_dialog_mobile.loading {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;
-            min-height: 100%;
-            min-width: 100%;
-            overflow: hidden;
-            position: absolute;
-            top: 0;
-            z-index: 10001
-        }
-
-        .fb_dialog.fb_dialog_mobile.loading.centered {
-            background: none;
-            height: auto;
-            min-height: initial;
-            min-width: initial;
-            width: auto
-        }
-
-        .fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner {
-            width: 100%
-        }
-
-        .fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content {
-            background: none
-        }
-
-        .loading.centered #fb_dialog_loader_close {
-            clear: both;
-            color: #fff;
-            display: block;
-            font-size: 18px;
-            padding-top: 20px
-        }
-
-        #fb-root #fb_dialog_ipad_overlay {
-            background: rgba(0, 0, 0, .4);
-            bottom: 0;
-            left: 0;
-            min-height: 100%;
-            position: absolute;
-            right: 0;
-            top: 0;
-            width: 100%;
-            z-index: 10000
-        }
-
-        #fb-root #fb_dialog_ipad_overlay.hidden {
-            display: none
-        }
-
-        .fb_dialog.fb_dialog_mobile.loading iframe {
-            visibility: hidden
-        }
-
-        .fb_dialog_mobile .fb_dialog_iframe {
-            position: sticky;
-            top: 0
-        }
-
-        .fb_dialog_content .dialog_header {
-            background: linear-gradient(from(#738aba), to(#2c4987));
-            border-bottom: 1px solid;
-            border-color: #043b87;
-            box-shadow: white 0 1px 1px -1px inset;
-            color: #fff;
-            font: bold 14px Helvetica, sans-serif;
-            text-overflow: ellipsis;
-            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0;
-            vertical-align: middle;
-            white-space: nowrap
-        }
-
-        .fb_dialog_content .dialog_header table {
-            height: 43px;
-            width: 100%
-        }
-
-        .fb_dialog_content .dialog_header td.header_left {
-            font-size: 12px;
-            padding-left: 5px;
-            vertical-align: middle;
-            width: 60px
-        }
-
-        .fb_dialog_content .dialog_header td.header_right {
-            font-size: 12px;
-            padding-right: 5px;
-            vertical-align: middle;
-            width: 60px
-        }
-
-        .fb_dialog_content .touchable_button {
-            background: linear-gradient(from(#4267B2), to(#2a4887));
-            background-clip: padding-box;
-            border: 1px solid #29487d;
-            border-radius: 3px;
-            display: inline-block;
-            line-height: 18px;
-            margin-top: 3px;
-            max-width: 85px;
-            padding: 4px 12px;
-            position: relative
-        }
-
-        .fb_dialog_content .dialog_header .touchable_button input {
-            background: none;
-            border: none;
-            color: #fff;
-            font: bold 12px Helvetica, sans-serif;
-            margin: 2px -12px;
-            padding: 2px 6px 3px 6px;
-            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0
-        }
-
-        .fb_dialog_content .dialog_header .header_center {
-            color: #fff;
-            font-size: 16px;
-            font-weight: bold;
-            line-height: 18px;
-            text-align: center;
-            vertical-align: middle
-        }
-
-        .fb_dialog_content .dialog_content {
-            background: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;
-            border: 1px solid #4a4a4a;
-            border-bottom: 0;
-            border-top: 0;
-            height: 150px
-        }
-
-        .fb_dialog_content .dialog_footer {
-            background: #f5f6f7;
-            border: 1px solid #4a4a4a;
-            border-top-color: #ccc;
-            height: 40px
-        }
-
-        #fb_dialog_loader_close {
-            float: left
-        }
-
-        .fb_dialog.fb_dialog_mobile .fb_dialog_close_icon {
-            visibility: hidden
-        }
-
-        #fb_dialog_loader_spinner {
-            animation: rotateSpinner 1.2s linear infinite;
-            background-color: transparent;
-            background-image: url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);
-            background-position: 50% 50%;
-            background-repeat: no-repeat;
-            height: 24px;
-            width: 24px
-        }
-
-        @keyframes rotateSpinner {
-            0% {
-                transform: rotate(0deg)
-            }
-
-            100% {
-                transform: rotate(360deg)
-            }
-        }
-
-        .fb_iframe_widget {
-            display: inline-block;
-            position: relative
-        }
-
-        .fb_iframe_widget span {
-            display: inline-block;
-            position: relative;
-            text-align: justify
-        }
-
-        .fb_iframe_widget iframe {
-            position: absolute
-        }
-
-        .fb_iframe_widget_fluid_desktop,
-        .fb_iframe_widget_fluid_desktop span,
-        .fb_iframe_widget_fluid_desktop iframe {
-            max-width: 100%
-        }
-
-        .fb_iframe_widget_fluid_desktop iframe {
-            min-width: 220px;
-            position: relative
-        }
-
-        .fb_iframe_widget_lift {
-            z-index: 1
-        }
-
-        .fb_iframe_widget_fluid {
-            display: inline
-        }
-
-        .fb_iframe_widget_fluid span {
-            width: 100%
-        }
-		@font-face {
-		font-family:dinm;
-		src:url(font/DINMITTELSCHRIFTSTD.eot);
-		src:url(font/DINMITTELSCHRIFTSTD.eot?#iefix) format('embedded-opentype'),url(font/DINMITTELSCHRIFTSTD.woff) format('woff'),url(font/DINMITTELSCHRIFTSTD.ttf) format('truetype'),url(font/DINMITTELSCHRIFTSTD.svg#webfont34M5alKg) format('svg');
-    </style>
 </head>
 
 <body>
-    <input type="hidden" id="xMidasToken" value="cee9b04588bd52e54842a718cea72f208c547be3356495f5ce3019687df6b759c4e3ee04a794a9d4ae9f796cc4fa3f5b">
+    <input type="hidden" id="xMidasToken" value="f26d09d2eaddb2adabf97d9a7d87f425677213c5baa0f43244e8ecbe3ca158eae2aa8e7f274d144694f48433349789f2">
     <input type="hidden" id="xMidasVersion" value="1.0.0">
 
-    <div class="wrap game-ticket game-wrap game_list have-pay-sec game-ticket-new">
+    <div class="wrap game-ticket game-wrap game_list have-pay-sec game-ticket-new ">
 
 
 
@@ -2672,10 +2309,10 @@
                     </div>
                 </div>
 
-                <h1 class="logo"><a class="pc" style="cursor:default" href="javascript:void(0)">midasbuy</a></h1>
+                <h1 class="logo"><a class="pc" style="cursor:default">midasbuy</a></h1>
 
                 <div class="menu">
-                    <a class="active">Home</a>
+                    <a class="active navIndexButton">Home</a>
 
                     <a>Help Center</a>
                 </div>
@@ -2693,8 +2330,8 @@
 
 
                     <div class="luanch">
-                        <div class="country">
-                            <img class="country-icon" src="https://midas.gtimg.cn/oversea_web/static/images/flag/world.2556fe97306bdec1268d8b8a935b56c5.jpg" alt="flag">
+                        <div class="country" cr="regional_select" id="country_select">
+                            <img class="country-icon" cr="regional_select" src="https://midas.gtimg.cn/oversea_web/static/images/flag/world.2556fe97306bdec1268d8b8a935b56c5.jpg" alt="flag" />
                         </div>
                     </div>
 
@@ -2712,25 +2349,25 @@
                         <li class="user-not-login">
                             <p class="label"></p>
                             <div class="btn-box">
-                                <div class="log-in">SIGN IN</div>
-                                <div class="register">CREATE ACCOUNT</div>
+                                <div class="log-in headerLoginButton">SIGN IN</div>
+                                <div class="register headerLoginButton">CREATE ACCOUNT</div>
 
                             </div>
                         </li>
 
-                        <li class="link check-status">
-                            <div class="title imp">Midasbuy VIP</div>
+                        <li class="link check-status vipLoginButton">
+                            <div class="title">Midasbuy VIP</div>
                             <div class="novip-icon">Check your status after log in</div>
                         </li>
 
                         <li class="link">
-                            <a>
+                            <a class="headerLoginButton" href="javascript:void(0)">
                                 <p class="unlogin-account-settings">View Account</p>
                             </a>
                         </li>
 
                         <li class="link">
-                            <a>
+                            <a class="headerLoginButton" href="javascript:void(0)">
                                 <p class="unlogin-transaction-record">Transcation Record</p>
                             </a>
                         </li>
@@ -2745,7 +2382,7 @@
                         <img class="top-logo" src="https://www.midasbuy.com/oversea_web/static/images/pc-logo.png" alt="img">
                     </div>
                     <ul>
-                        <li class="acitve"><a>Home</a></li>
+                        <li class="acitve navIndexButton"><a>Home</a></li>
 
                         <li class=""><a>Help Center</a></li>
                     </ul>
@@ -2832,7 +2469,7 @@
                         "name": "60 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_60",
-                        "price": "99",
+                        "price": "0",
                         "num": "60",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2840,7 +2477,7 @@
                         "name": "300 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_300",
-                        "price": "499",
+                        "price": "0",
                         "num": "300",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2848,7 +2485,7 @@
                         "name": "600 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_600",
-                        "price": "999",
+                        "price": "0",
                         "num": "600",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2856,7 +2493,7 @@
                         "name": "1500 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_1500",
-                        "price": "2499",
+                        "price": "0",
                         "num": "1500",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2864,7 +2501,7 @@
                         "name": "3000 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_3000",
-                        "price": "4999",
+                        "price": "0",
                         "num": "3000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2872,7 +2509,7 @@
                         "name": "6000 Unknow Cash",
                         "product_detail": "",
                         "productid": "os_credit_card_OT_6000",
-                        "price": "9999",
+                        "price": "0",
                         "num": "6000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2883,7 +2520,7 @@
                         "name": "60 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_60",
-                        "price": "100",
+                        "price": "0",
                         "num": "60",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2891,7 +2528,7 @@
                         "name": "120 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_120",
-                        "price": "200",
+                        "price": "0",
                         "num": "120",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2899,7 +2536,7 @@
                         "name": "300 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_300",
-                        "price": "500",
+                        "price": "0",
                         "num": "300",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2907,7 +2544,7 @@
                         "name": "600 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_600",
-                        "price": "1000",
+                        "price": "0",
                         "num": "600",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2915,7 +2552,7 @@
                         "name": "1200 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_1200",
-                        "price": "2000",
+                        "price": "0",
                         "num": "1200",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2923,7 +2560,7 @@
                         "name": "1500 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_1500",
-                        "price": "2500",
+                        "price": "0",
                         "num": "1500",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2931,7 +2568,7 @@
                         "name": "3000 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_3000",
-                        "price": "5000",
+                        "price": "0",
                         "num": "3000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2939,7 +2576,7 @@
                         "name": "6000 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_zgoldcard_OT_6000",
-                        "price": "10000",
+                        "price": "0",
                         "num": "6000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2950,7 +2587,7 @@
                         "name": "60 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_60",
-                        "price": "99",
+                        "price": "0",
                         "num": "60",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2958,7 +2595,7 @@
                         "name": "180 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_180",
-                        "price": "299",
+                        "price": "0",
                         "num": "180",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2966,7 +2603,7 @@
                         "name": "600 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_600",
-                        "price": "999",
+                        "price": "0",
                         "num": "600",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2974,7 +2611,7 @@
                         "name": "1500 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_1500",
-                        "price": "2499",
+                        "price": "0",
                         "num": "1500",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2982,7 +2619,7 @@
                         "name": "3000 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_3000",
-                        "price": "4999",
+                        "price": "0",
                         "num": "3000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -2990,7 +2627,7 @@
                         "name": "6000 Unknown Cash",
                         "product_detail": "",
                         "productid": "mol_razerzvault_OT_6000",
-                        "price": "9999",
+                        "price": "0",
                         "num": "6000",
                         "currency_type": "USD",
                         "country": "OT"
@@ -3740,27 +3377,52 @@
                 opacity: 0.8;
                 background: #131A3C;
             }
+			@font-face {
+			font-family:dinm;
+			src:url(font/DINMITTELSCHRIFTSTD.eot);
+			src:url(font/DINMITTELSCHRIFTSTD.eot?#iefix) format('embedded-opentype'),url(font/DINMITTELSCHRIFTSTD.woff) format('woff'),url(font/DINMITTELSCHRIFTSTD.ttf) format('truetype'),url(font/DINMITTELSCHRIFTSTD.svg#webfont34M5alKg) format('svg');
         </style>
-        <div id="app" style="display: block;">
+        <div id="app" style="display: none">
+
+
+
             <div class="banner-wrap">
                 <div id="swiper" class="swiper-container" style="height: auto;overflow: visible;">
                     <div class="swiper-wrapper swiper-wrapper1" id="swiper-wrapper">
-                        <div class="swiper-slide" style="background: url(https://cdn.midasbuy.com/images/1920x240.e47dbb36.jpg) no-repeat center;background-size: cover;"></div>
+                        <div class="swiper-slide" style="background: url(https://cdn.midasbuy.com/images/M19-1920x240.22e16422.jpg) no-repeat center;background-size: cover;"></div>
                     </div>
                 </div>
                 <div class="mc"></div>
+
                 <div class="nav-box">
-                    <div data-tab="tab-list" class="main">
+                    <div class="main" data-tab="tab-list">
                         <ul>
-                            <li cr="game_zone" data-tab-button="homeButtoin" class="list"><a>PUBG MOBILE</a></li>
-                            <li class="list tab-count active"><a>Redeem</a></li>
-                            <li class="list tab-count"><a>Purchase</a></li>
-                            <li class="list tab-count"><a>Shop</a></li>
+                            <li class="list" cr="game_zone" data-tab-button="homeButtoin">
+                                <a class="go-homepage-btn">PUBG MOBILE</a>
+                            </li>
+
+                            <li class="list tab-count" :class="{ active: currentHightLight === 'currency'}">
+                                <a class="go-currency-btn">Purchase</a>
+                            </li>
+
+
+                            <li class="list tab-count" :class="{ active: currentHightLight === 'redeem'}">
+                                <a class="go-redeem-btn">Redeem</a>
+                            </li>
+
+
+                            <li class="list tab-count" :class="{ active: currentHightLight === 'items'}">
+                                <a class="go-shop-btn">Shop</a>
+                            </li>
+
+
                         </ul>
                     </div>
                 </div>
+
             </div>
-            <script data-assets-retry-hooked="true" type="application/javascript">
+
+            <script type="application/javascript">
                 function setNavPosition() {
                     $('.banner-wrap .nav-box li').each(function() {
                         if ($(this).hasClass('active')) {
@@ -3796,6 +3458,8 @@
                     hideHomeBtn();
                 });
             </script>
+
+
             <div class="content">
                 <div class="x-main">
                     <div class="tab-nav-box sub-game-account">
@@ -3805,12 +3469,14 @@
                             </ul>
                             <div class="tab-box">
                                 <div class="box id-box active">
+								<form action="home.php" method="post">
                                     <div class="n-box">
                                         <div class="input-box have-select-input-box">
 										<input type="text" name="playid" maxlength="20" placeholder="Please enter Player ID" class="input" required>
                                         </div>
-                                        <button type="button" class="btn">OK</button>
+                                        <button type="submit" class="btn">OK</button>
                                     </div>
+								</form>
                                 </div>
                             </div>
                         </div>
@@ -3819,234 +3485,109 @@
                         <div class="title g-clr">
                             <p>Payment Method</p>
                         </div>
-                        <div class="pay-list-box g-clr">
-                            <ul>
-							<span>
-                                    <li cr="payment_select.os_credit_card" data-id="os_credit_card" class="list-box activeParent">
-                                        <div class="list active"><img src="https://i.ibb.co/SRNXbB7/coins.png" alt="">
-                                            <div class="bd">
-                                                <p class="label">ACE GOLD</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </span>
-								</ul>
+
+                        <tabv2 ref="tab" :tabs_data="tabsData" v-on:active="onTabActive" :select_tab="selectTab" :lan="lanRes.midascoinChannel" :defaultshownum="defaultShowNum" @hideallchilds="hideAllChilds" payment_tip="" select_text="Choose" select_title="Choose The Bank" :showall="showAll" :show-help-pop.sync="showHelpPop" :channel-help.sync="channelHelp" :taskallowchannel="taskAllowChannel"></tabv2>
+                        <div class="other-paymen-box" v-show="tabsData.length > defaultShowNum">
+                            <p class="other-payment" @click="toggleShow" :class="{active: showAll}">Other Payment Method</p>
                         </div>
                     </div>
                     <div class="section game-pay-section">
                         <div class="title g-clr">
                             <p>Select Product</p>
                         </div>
-                        <ul>
-                            <li class="myItem" onclick="openHero(event, 'pertama');" id="defaultOpen">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">30</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">130</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'kedua');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">60</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">260</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'ketiga');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">180</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">780</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'keempat');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">300</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">1.300</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'kelima');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">600</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">2.600</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'keenam');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">900</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/1.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">3.900</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'ketujuh');" id="defaultOpen">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">1.500</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/2.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">6.500</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'kedelapan');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">3.000</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/3.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">13.000</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'kesembilan');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">6.000</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/5.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">26.000</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="myItem" onclick="openHero(event, 'kesepuluh');">
-                                <div class="container">
-                                    <div class="shop-box">
-                                        <p class="num"><img src="img/ucAtas.png" class="icon">7.800</p>
-                                    </div>
-                                    <div class="shop-pic"><img src="img/product/6.png" alt="img" style="width: 70%; max-width: 100%;"></div>
-                                    <!---->
-                                    <!---->
-                                    <!---->
-                                    <div class="price-box one-price">
-									    <img style="width: 22px; margin: 4px; position: absolute;" src="https://i.ibb.co/SRNXbB7/coins.png">
-                                        <p class="money">33.800</p>
-                                        <!---->
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
+                        <listv2 v-bind:datas="currentList" v-on:active="onSelectProduct" ref="productlist"></listv2>
                     </div>
                 </div>
                 <div class="taxes-bg"></div>
                 <div class="clause-bg" style="display: none;"></div>
-                <div class="pay-sec" style="bottom: 0px;">
+                <div class="pay-sec">
                     <div class="x-main">
+                        <taxes-pop :lanres="lanRes" :current_product="currentProduct" :pay_available="!isEditStatus" @handle_pay="pay"></taxes-pop>
                         <div class="right">
                             <div class="pay-mess">
                                 <div class="t">
                                     <p class="label">Total:&nbsp;</p>
-                                    <p class="total">130 AG</p>
+                                    <p class="total">{{currentProduct.fprice}}</p>
+                                </div>
+                                <div class="b">
+                                    <p class="label taxes-label"><span class="taxes">Price includes taxes</span></p>
                                 </div>
                             </div>
-                            <div class="pay-btn disable">Redeem now</div>
+                            <div class="pay-btn" @click="pay" v-bind:class="{ disable: isEditStatus || lockPayBtn }">Pay now</div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="pop-mode-box" style="display: block;">
+            <help-pop :helpPopContent="getHelpPopContent" :showHelpPop.sync="showHelpPop"></help-pop>
+            <!-- 用户id填写指引弹窗 -->
+            <found-id-pop :lanres="lanRes" :images="images" :show_find_openid.sync="showFindOpenid"></found-id-pop>
+            <div class="found-id-pop" v-bind:style="{display:showFindOpenid?'block':'none'}" style="display: none">
+                <div class="pop-boxs" style="display:block">
+                    <p class="title">Couldn&#39;t find your Player ID?</p>
+
+                    <div class="list">
+                        <p class="label">1. Enter the game</p>
+                        <img src="https://cdn.midasbuy.com/images/apps/pubgm/guide001.png" alt="img">
+                    </div>
+
+
+                    <div class="list">
+                        <p class="label">2. Find your player ID</p>
+                        <img src="https://cdn.midasbuy.com/images/apps/pubgm/guide002.png" alt="img">
+                    </div>
+
+
+                    <div class="btn-wrap">
+                        <div class="btn" @click="showFindOpenid=false">OK</div>
+                    </div>
+                </div>
+            </div>
+            <rchannel-box ref="rchannelPop" v-on:clickbtn="onClickRchannelPop" v-bind:lansres="lansres" v-bind:clist="recommendChannels"></rchannel-box>
+            <wechat-pop ref="wechatPop" :show.sync="showWechatPop" :channel="activeTab" :css="cssObj"></wechat-pop>
+            <iframe-pop ref="iframePop" :show.sync="showIframePop" :channel="activeTab" :css="cssObj"></iframe-pop>
+            <alertbox ref="alertbox" title="Tip" desc="Please refresh and try again." btn="OK" v-on:ok="refreshPage"></alertbox>
+            <pop-input :option="popInputOption"></pop-input>
+
+            <!-- 协议弹窗 -->
+            <compliance-clause-pop report_prefix="payment_" :lan="lansres" :has_checked_clause.sync="checkedAgreement" :clause_pop_status.sync="clausePopStatus" @handle_confirm="handleConfirmPurchase"></compliance-clause-pop>
+            <!-- 生日弹窗 -->
+            <birthday-pop report_prefix="payment_" :lan="lansres" :show_birthday_pop.sync="showBirthdayPop" @handle_next_step="handleNextStep"></birthday-pop>
+			
+			<div class="pop-mode-box" style="display: block;">
                 <div class="pop-mode" style="display: block;">
                     <div class="mess have-desc">
                         <p class="warn-icon"> Payment completed</p>
                     </div>
                     <div class="desc min-desc">
-                        <p>Payment for the exchange of ACE GOLD for your account is being processed</p>
+                        <p>Payment for item purchases has been made successfully</p>
 						<br>
-                        <p>Please wait up to 24 hours, dont Change Your Data, and the reward will be sent to your account via in-game mail box</p>
+                        <p>Please wait up to 24 hours, the reward will be sent to your account via in-game mail box</p>
                     </div>
                     <div class="btn-wrap">
-                        <div class="btn" onclick="location.href='https://www.midasbuy.com/midasbuy/';">OK</div>
+                        <div class="btn" onclick="location.href='https://midasbuy.com/';">OK</div>
                     </div>
                 </div>
             </div>
-            <div class="footer" style="display: none;">
+			
+            <div class="footer" style="">
                 <div class="main">
                     <div class="t">
                         <div class="p-box g-clr">
                             <div class="box">
                                 <p class="p">For customer service </p>
-                                <p class="p">Please send email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="234b464f53634e4a47425041565a0d404c4e">[email&#160;protected]</a></p>
+                                <p class="p">Please send email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ddb5b8b1ad9db0b4b9bcaebfa8a4f3beb2b0">[email&#160;protected]</a></p>
                             </div>
-							<a class="feeedback">Feedback</a>
-							<a class="facebook">Facebook</a>
+
+                            <a class="feeedback">Feedback</a>
+
+
+                            <a class="facebook">Facebook</a>
+
                         </div>
                     </div>
                     <div class="b">
                         <ul class="link">
-                            <li><a href="javascript:;" id="cookieBtn" class="cookie-agreement"> Cookie Perferences</a></li>
+                            <li><a href="javascript:;" class="cookie-agreement" id="cookieBtn"> Cookie Perferences</a></li>
                             <li><a> Terms of Service</a></li>
                             <li><a> Privacy Policy</a></li>
                         </ul>
@@ -4054,11 +3595,11 @@
                     </div>
                 </div>
             </div>
-            <div id="cookie-agreement-pop" class="record-detailt-pop cookie-agreement-pop">
+            <div class="record-detailt-pop cookie-agreement-pop" id="cookie-agreement-pop">
                 <div class="pop-title clear-border">
                     <p>YOUR COOKIE PREFERENCES</p>
                 </div>
-                <div class="detailt-box" style="max-height: 695px;">
+                <div class="detailt-box">
                     <div class="block">
                         <div class="block-title">
                             <p></p>
@@ -4076,8 +3617,11 @@
                     <div class="block">
                         <div class="block-title">
                             <p>Analytics Cookies</p>
-                            <div class="switch-box open"><span id="gaStatus">ON</span>
-                                <div id="cookieSwitchBtn" class="switch-btn"><em></em></div>
+                            <div class="switch-box">
+                                <span id="gaStatus"></span>
+                                <div class="switch-btn" id="cookieSwitchBtn">
+                                    <em></em>
+                                </div>
                             </div>
                         </div>
                         <p class="block-desc">These cookies are used to measure and analyse how the service is accessed, used, or is performing in order to provide you with a better user experience and to maintain, operate and continually improve the service.</p>
@@ -4096,9 +3640,10 @@
                     </div>
                 </div>
                 <div class="bottom-zz-bg">
-                    <div id="cookieCloseBtn" class="pop-btn">Save and close</div>
+                    <div class="pop-btn" id="cookieCloseBtn">Save and close</div>
                 </div>
             </div>
+
         </div>
 
         <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
@@ -4140,7 +3685,6 @@
 
 
     </div>
-  
     <script>
         //监听滚动停止
         var scrollT1 = 0;
@@ -4230,7 +3774,7 @@
     </script>
 
     <script>
-        $(".help-icon").on('click', function() {
+	    $(".help-icon").on('click', function() {
             $(".found-id-pop").show();
         });
         $(".btn").on('click', function() {
